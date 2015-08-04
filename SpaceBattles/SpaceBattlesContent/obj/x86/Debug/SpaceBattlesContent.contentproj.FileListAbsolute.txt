@@ -1,0 +1,2 @@
+c:\users\semen\documents\visual studio 2010\Projects\SpaceBattles\SpaceBattles\SpaceBattlesContent\obj\x86\Debug\SpaceBattlesContent.contentprojResolveAssemblyReference.cache
+C:\Users\Rist\Downloads\SpaceBattles\SpaceBattles\SpaceBattles\SpaceBattlesContent\obj\x86\Debug\SpaceBattlesContent.contentprojResolveAssemblyReference.cache
